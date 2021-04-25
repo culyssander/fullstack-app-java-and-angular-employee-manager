@@ -15,13 +15,13 @@ Link do projecto: `https://app-employee-manager-culysoft.herokuapp.com/`
 9. Angular
 
 ## Pre-requisitos para executar localmente<br>
-#### Java - Mas não é obrigatorio porque a parte do backend está online. `https://employee-manager-api.herokuapp.com/employees`
-#### Nodejs - `https://nodejs.org` <br>
-#### Angular CLI - `https://cli.angular.io/`<br>
+1. Java - Mas não é obrigatorio porque a parte do backend está online. `https://employee-manager-api.herokuapp.com/employees`
+2. Nodejs - `https://nodejs.org` <br>
+3. Angular CLI - `https://cli.angular.io/`<br>
 
 ## Instalação
 
-1. Clona o projecto no github usado o comando `git clone` `git clone git@github.com repository: culyssander / ecommerce-nodejs-and-angular.git` || `https://github.com/culyssander/ecommerce-nodejs-and-angular.git`
+1. Clona o projecto no github usado o comando `git clone` `git clone git@github.com repository: culyssander / fullstack-app-java-and-angular-employee-manager.git` || `https://github.com/culyssander/fullstack-app-java-and-angular-employee-manager.git`
 2. Entra até o pasta do frontend e digite o comando no terminal `npm install` para a instalação das dependecias do Angular e o projecto está funcional.
 
 3. Para executar escreva o comando `ng serve` para inicializar o projecto localmente. Acessa a url `http://localhost:4200`.
