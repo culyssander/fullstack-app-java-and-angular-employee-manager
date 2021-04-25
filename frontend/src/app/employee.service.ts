@@ -10,7 +10,7 @@ import { environment } from "src/environments/environment";
 })
 export class EmployeeService {
 
-    private apiServerUrl = environment.apiBaseUrl + 'employees';
+    private apiServerUrl = environment.apiBaseUrlOnline + 'employees';
 
     constructor(private http: HttpClient){}
 
