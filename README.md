@@ -73,7 +73,7 @@ Angular CLI - `https: // cli.angular.io /` <br>
 
 ## Installation
 
-1. Clone the project on github using the command git clone `git clone git@github.com repository: culyssander / ecommerce-nodejs-and-angular.git` || `https: // github.com / culyssander / ecommerce-nodejs-and-angular.git`
+1. Clone the project on github using the command git clone  `git clone` `git clone git@github.com repository: culyssander / fullstack-app-java-and-angular-employee-manager.git` || `https://github.com/culyssander/fullstack-app-java-and-angular-employee-manager.git`
 2. Enter the frontend folder and enter the command in the `npm install` terminal to install Angular's dependencies and the project is functional.
 
 3. To execute, type the command `ng serves` to initialize the project locally. Access the url `http: // localhost: 4200 /`.
