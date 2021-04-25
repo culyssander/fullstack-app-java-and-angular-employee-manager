@@ -1,6 +1,6 @@
-# Applicação FullStack com Java no backend e Angular no Frontend
+# Applicação FullStack com Java no backend e Angular no Frontend - Gerenciamento de Empregado
 O objectivo principal é o treinamento do Angular desenvolvendo um app que faz o gerenciamento de empregados usado o modelo do Junior do canal amigoscode e getArray no Youtube.
-Titulo do video: Spring boot full stack with Angular_full Course[2021]
+Titulo do video: Spring boot full stack with Angular_full Course[2021]<br>
 Link do projecto: `https://app-employee-manager-culysoft.herokuapp.com/`
 
 ## Prerequitos para a criação do projecto
@@ -50,7 +50,7 @@ Execute `ng generate component-name` para criar um novo componente. Você també
 
 Execute `ng build` para gerar a construção do projeto. O projeto será criado dentro do diretório `dist /`. Adicione `--prod` junto com o comando build para gerar minimizado e pronto para o ambiente de produção. 
 
-# Fullstack application with Java(backend) and angular(fronted)
+# Fullstack application with Java(backend) and angular(fronted) - Employee Manager
 The main objective is to train Angular by developing an app that manages employees using the Junior model of the amigoscode and getArray channel on Youtube.
 
 `https://app-employee-manager-culysoft.herokuapp.com/`
@@ -88,9 +88,9 @@ Endpoints <br>
 `https://employee-manager-api.herokuapp.com/employees` <br>
 
 ## Description HTTP Methods:
-GET - To list all employees available at the database or an employee by id
-POST - To add employee
-PUT - To update the employee
+GET - To list all employees available at the database or an employee by id <br>
+POST - To add employee <br>
+PUT - To update the employee<br>
 DELETE - For the permanent removal of the employee from database
 
 
