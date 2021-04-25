@@ -4,20 +4,20 @@ Titulo do video: Spring boot full stack with Angular_full Course[2021]
 Link do projecto: `https://app-employee-manager-culysoft.herokuapp.com/`
 
 ## Prerequitos para a criação do projecto
-Java
-JavaScript
-HTTP
-Spring Boot
-HTTML & CSS
-TypeScript
-CLI
-Database
-Angular
+1. Java
+2. JavaScript
+3. HTTP
+4. Spring Boot
+5. HTTML & CSS
+6. TypeScript
+7. CLI
+8. Database
+9. Angular
 
 ## Pre-requisitos para executar localmente<br>
-Java - Mas não é obrigatorio porque a parte do backend está online. `https://employee-manager-api.herokuapp.com/employees`
-Nodejs - `https://nodejs.org` <br>
-Angular CLI - `https://cli.angular.io/`<br>
+#### Java - Mas não é obrigatorio porque a parte do backend está online. `https://employee-manager-api.herokuapp.com/employees`
+#### Nodejs - `https://nodejs.org` <br>
+#### Angular CLI - `https://cli.angular.io/`<br>
 
 ## Instalação
 
